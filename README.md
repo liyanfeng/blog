@@ -1,0 +1,2 @@
+# blog
+as my blog
